@@ -10,6 +10,7 @@ const Main = () => {
         Bienvenido a Volture
       </h2>
       <img className="img-fluid" src={Banner} alt="banner"/>
+      
     </div>
   );
 };
