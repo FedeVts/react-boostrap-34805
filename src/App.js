@@ -10,8 +10,8 @@ function App() {
       <header className="App-header">
         <NavBar />
       </header>
-      <main>
-        <ItemListContainer />
+      <main className="App-main">
+      <ItemListContainer />
         <Main />
       </main>
       <footer>
